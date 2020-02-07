@@ -1,0 +1,11 @@
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\bin\Debug\netcoreapp3.1\ClassesExtraProbs.exe
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\bin\Debug\netcoreapp3.1\ClassesExtraProbs.deps.json
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\bin\Debug\netcoreapp3.1\ClassesExtraProbs.runtimeconfig.json
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\bin\Debug\netcoreapp3.1\ClassesExtraProbs.runtimeconfig.dev.json
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\bin\Debug\netcoreapp3.1\ClassesExtraProbs.dll
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\bin\Debug\netcoreapp3.1\ClassesExtraProbs.pdb
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\obj\Debug\netcoreapp3.1\ClassesExtraProbs.csprojAssemblyReference.cache
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\obj\Debug\netcoreapp3.1\ClassesExtraProbs.AssemblyInfoInputs.cache
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\obj\Debug\netcoreapp3.1\ClassesExtraProbs.AssemblyInfo.cs
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\obj\Debug\netcoreapp3.1\ClassesExtraProbs.dll
+C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Object-Oriented Programming\ClassesExtraProbs\obj\Debug\netcoreapp3.1\ClassesExtraProbs.pdb
